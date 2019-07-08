@@ -1,12 +1,12 @@
 # Python Introduction
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/luispedro/talk-python-intro)
-
-[Launch this on binder](http://beta.mybinder.org:/repo/luispedro/talk-python-intro)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LxMLS/talk-python-intro/master)
 
 Luis Pedro Coelho<br />
 luis@luispedro.org<br />
 [@luispedrocoelho](https://twitter.com/luispedrocoelho)
+
+(modified by Ramón Astudillo)
 
 ## Install
 
