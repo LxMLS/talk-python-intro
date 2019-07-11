@@ -23,3 +23,5 @@ first you need to install raise
     pip install raise
     jupyter-nbextension install rise --py --sys-prefix
 
+an additional button will appear on the notebook to toggle presentation mode
+on/off. Click on the interrogan ot get on comands (e.g. space to advance)
